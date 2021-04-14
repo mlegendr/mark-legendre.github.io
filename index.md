@@ -1,37 +1,100 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-You can use the [editor on GitHub](https://github.com/mlegendr/mark-legendre.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <title>Mark Legendre</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <meta name="author" content="Mark Legendre">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-### Markdown
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="icon" type="image/png" href="images/Portrait.png">
+  <script src="https://kit.fontawesome.com/17a6e8ab19.js" crossorigin="anonymous"></script>
+</head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
+  <table style="width:100%;max-width:1400px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:0px;width:100%;max-width:100%">
+              <p style="text-align:right">
 
-```markdown
-Syntax highlighted code block
+                <a href="MLegendrHTML.html">Home</a> &nbsp;&nbsp;
 
-# Header 1
-## Header 2
-### Header 3
+                <a href="PapersHTML.html">Papers</a> &nbsp;&nbsp;
 
-- Bulleted
-- List
+                <a href="ProjectsHTML.html">Projects</a> &nbsp;&nbsp;
 
-1. Numbered
-2. List
+                <a href="ImagesHTML.html">Photos</a> &nbsp;&nbsp;
 
-**Bold** and _Italic_ and `Code` text
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:0px;width:100%;max-width:100%">
+              <img style="width:100%;max-width:100%;height:40%" alt="university photo" src="images/CampusPic.png" class="hoverZoomLink">
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:1%;width:75%;vertical-align:middle">
+              <p style="text-align:center">
+                <name style="font-size:40px;font-family:serif">Mark Legendre</name>
+              </p>
 
-[Link](url) and ![Image](src)
-```
+              <p style="font-size:18px;font-family:serif">Hello, and welcome to my website! I am an incoming graduate student at
+                <a href="https://www.caltech.edu">The California Institute of Technology</a> where I study
+                <a href="https://cce.caltech.edu/graduate/graduate-chemical-engineering">Chemical Engineering</a>.
+                I received my undergraduate degree in Chemical and Biomolecular Engineering at
+                <a href="https://www.nd.edu">The University of Notre Dame</a> where I worked with
+                <a href="https://engineering.nd.edu/faculty/matthew-webber/">Matthew Webber, PhD</a> in his
+                <a href="http://www.webberlab.com/">Supramolecular Chemistry Lab</a>. I am passionate about
+                stimuli-responsive and active targeting applications of nanoparticle delivery vehicles, a class
+                of materials that is relevent across many fields: drug delivery, genome editing, and many others.
+                Of course, I am fascinated by other activities as well! I love music (guitar, flute, saxophone) and I have recently
+                taken up alpine skiing in my freetime. I look forward to exploring many new areas and activities!
+              </p>
+              <p style="text-align:center">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+                <a href="mailto:mlegendr@nd.edu"><i class="fas fa-envelope"></i> Email</a> &nbsp;&nbsp;
 
-### Jekyll Themes
+                <a href="data/CV_MarkLegendre.pdf"><i class="fas fa-file"></i> CV</a> &nbsp;&nbsp;
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlegendr/mark-legendre.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+                <a href="https://www.linkedin.com/in/mark-legendre-0a964419a/"><i class="fab fa-linkedin"></i> LinkedIn</a> &nbsp;&nbsp;
 
-### Support or Contact
+                <a href="https://twitter.com/MarkLegendre3"><i class="fab fa-twitter"></i> Twitter</a>
+              </p>
+            </td>
+            <td style="padding:2.5%;width:15%;max-width:15%;position:absolute;top:40px;right:210px">
+              <a href="images/ProfilePic.png"><img style="border:4px solid #FFFFFF;width:100%;max-width:100%;border-radius:50%" alt="profile photo" src="images/ProfilePic.png" class="wdn-stretch rounded-corners"></a>
+            </td>
+          </tr>
+        </tbody></table>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr>
+            <td style="padding:1%">
+              <br>
+              <p style="text-align:left;">
+                <a href="mailto:mlegendr@nd.edu"><i class="fas fa-envelope fa-lg"></i></a> &nbsp;&nbsp;
+
+                <a href="https://www.linkedin.com/in/mark-legendre-0a964419a/"><i class="fab fa-linkedin fa-lg"></i></a> &nbsp;&nbsp;
+
+                <a href="https://twitter.com/MarkLegendre3"><i class="fab fa-twitter fa-lg"></i></a> &nbsp;&nbsp;
+
+            </p>
+
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+</body>
+
+</html>
